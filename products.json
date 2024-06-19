@@ -1,0 +1,142 @@
+[
+  {
+    "price": 3.5,
+    "name": "Cereal",
+    "consumeBefore": 30,
+    "category": "FoodProduct",
+    "stock": 50
+  },
+  {
+    "price": 329,
+    "name": "Apple iPad",
+    "category": "ElectronicProduct",
+    "stock": 50,
+    "warrantyYears": 2
+  },
+  {
+    "price": 10,
+    "name": "Beef",
+    "consumeBefore": 10,
+    "category": "FoodProduct",
+    "stock": 49
+  },
+  {
+    "price": 200,
+    "name": "Sony Headphones",
+    "category": "ElectronicProduct",
+    "stock": 60,
+    "warrantyYears": 4
+  },
+  {
+    "price": 799,
+    "name": "Samsung Galaxy S21",
+    "category": "ElectronicProduct",
+    "stock": 25,
+    "warrantyYears": 2
+  },
+  {
+    "price": 500,
+    "name": "Gigabyte Monitor",
+    "category": "ElectronicProduct",
+    "stock": 10,
+    "warrantyYears": 5
+  },
+  {
+    "price": 2,
+    "name": "Eggs",
+    "consumeBefore": 60,
+    "category": "FoodProduct",
+    "stock": 100
+  },
+  {
+    "price": 299,
+    "name": "Nintendo Switch",
+    "category": "ElectronicProduct",
+    "stock": 40,
+    "warrantyYears": 1
+  },
+  {
+    "price": 2.5,
+    "name": "Butter",
+    "consumeBefore": 30,
+    "category": "FoodProduct",
+    "stock": 40
+  },
+  {
+    "price": 1.5,
+    "name": "Bread",
+    "consumeBefore": 5,
+    "category": "FoodProduct",
+    "stock": 73
+  },
+  {
+    "price": 5,
+    "name": "Cheese",
+    "consumeBefore": 20,
+    "category": "FoodProduct",
+    "stock": 49
+  },
+  {
+    "price": 99,
+    "name": "Amazon Echo",
+    "category": "ElectronicProduct",
+    "stock": 70,
+    "warrantyYears": 2
+  },
+  {
+    "price": 2,
+    "name": "Milk",
+    "consumeBefore": 30,
+    "category": "FoodProduct",
+    "stock": 50
+  },
+  {
+    "price": 500,
+    "name": "HP Laptop",
+    "category": "ElectronicProduct",
+    "stock": 39,
+    "warrantyYears": 2
+  },
+  {
+    "price": 399,
+    "name": "Apple Watch",
+    "category": "ElectronicProduct",
+    "stock": 50,
+    "warrantyYears": 2
+  },
+  {
+    "price": 0.5,
+    "name": "Apple",
+    "consumeBefore": 10,
+    "category": "FoodProduct",
+    "stock": 100
+  },
+  {
+    "price": 699,
+    "name": "iPhone 13",
+    "category": "ElectronicProduct",
+    "stock": 30,
+    "warrantyYears": 1
+  },
+  {
+    "price": 1200,
+    "name": "Canon Camera",
+    "category": "ElectronicProduct",
+    "stock": 29,
+    "warrantyYears": 5
+  },
+  {
+    "price": 0.3,
+    "name": "Banana",
+    "consumeBefore": 25,
+    "category": "FoodProduct",
+    "stock": 80
+  },
+  {
+    "price": 8,
+    "name": "Chicken",
+    "consumeBefore": 10,
+    "category": "FoodProduct",
+    "stock": 60
+  }
+]
